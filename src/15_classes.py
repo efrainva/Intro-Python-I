@@ -2,6 +2,7 @@
 # constructor
 
 # YOUR CODE HERE
+
 class LatLon: 
   def __init__(self,lat,lon):
     self.lat = lat
@@ -62,3 +63,4 @@ geocache = Geocache("Newberry Views",  1.5,  2, 44.052137, -121.41556)
 
 # Print it--also make this print more nicely
 print(geocache)
+#
